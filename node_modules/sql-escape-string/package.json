@@ -1,0 +1,39 @@
+{
+  "name": "sql-escape-string",
+  "version": "1.1.0",
+  "description": "Simple SQL string escape.",
+  "main": "sql-escape-string.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "files": [
+    "sql-escape-string.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/sql-escape-string.git"
+  },
+  "homepage": "https://github.com/thlorenz/sql-escape-string",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "keywords": [
+    "sql",
+    "escape",
+    "injection",
+    "security"
+  ],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/thlorenz/sql-escape-string/blob/master/LICENSE"
+  },
+  "engine": {
+    "node": ">=6"
+  }
+}

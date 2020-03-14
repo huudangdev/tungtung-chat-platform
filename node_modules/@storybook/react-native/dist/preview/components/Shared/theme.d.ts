@@ -1,0 +1,12 @@
+export declare const theme: {
+    backgroundColor: string;
+    headerTextColor: string;
+    labelColor: string;
+    borderColor: string;
+    previewBorderColor: string;
+    buttonTextColor: string;
+    buttonActiveTextColor: string;
+};
+export interface EmotionProps {
+    theme: typeof theme;
+}

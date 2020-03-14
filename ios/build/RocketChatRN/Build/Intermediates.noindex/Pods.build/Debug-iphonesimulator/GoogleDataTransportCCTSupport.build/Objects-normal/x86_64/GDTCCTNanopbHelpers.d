@@ -1,0 +1,19 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTNanopbHelpers.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTNanopbHelpers.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORStoredEvent.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORDataFuture.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCOREvent.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCOREventDataObject.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/nanopb/pb.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORConsoleLogger.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/nanopb/pb_decode.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/nanopb/pb_encode.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTPrioritizer.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORClock.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORPrioritizer.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORLifecycle.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORPlatform.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORUploadPackage.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORTargets.h

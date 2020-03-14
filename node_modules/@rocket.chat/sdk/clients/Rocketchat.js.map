@@ -1,0 +1,1 @@
+{"version":3,"file":"Rocketchat.js","sourceRoot":"","sources":["../../src/clients/Rocketchat.ts"],"names":[],"mappings":";;;;;AAAA,+CAAyC","sourcesContent":["export * from '../lib/clients/Rocketchat'\n"]}

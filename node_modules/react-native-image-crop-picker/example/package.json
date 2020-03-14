@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "ios": "node node_modules/react-native/local-cli/cli.js run-ios",
+    "android": "node node_modules/react-native/local-cli/cli.js run-android"
+  },
+  "dependencies": {
+    "react": "16.10.2",
+    "react-native": "0.61.2",
+    "react-native-image-crop-picker": "../",
+    "react-native-video": "5.1.0-alpha1"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "3.0.4"
+  }
+}

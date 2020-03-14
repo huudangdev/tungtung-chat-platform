@@ -1,0 +1,45 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/Optional.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/Portability.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/portability/Config.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/CPortability.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/Traits.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/Utility.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/lang/Exception.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/CppAttributes.h

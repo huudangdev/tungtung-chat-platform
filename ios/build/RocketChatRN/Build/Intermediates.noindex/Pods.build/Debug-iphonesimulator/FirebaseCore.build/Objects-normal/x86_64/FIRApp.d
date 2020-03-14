@@ -1,0 +1,22 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRApp.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRVersion.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAnalyticsConfiguration.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainerInternal.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRConfigurationInternal.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRConfiguration.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRLoggerLevel.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRCoreDiagnosticsConnector.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIROptions.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h

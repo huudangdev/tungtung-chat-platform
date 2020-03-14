@@ -1,0 +1,15 @@
+import { Component } from 'react';
+interface Props {
+    stories: any;
+    url: string;
+    onDevice?: boolean;
+}
+export default class StoryView extends Component<Props> {
+    componentDidMount(): void;
+    componentWillUnmount(): void;
+    forceReRender: () => void;
+    renderHelp: () => JSX.Element;
+    renderOnDeviceUIHelp: () => JSX.Element;
+    render(): JSX.Element;
+}
+export {};

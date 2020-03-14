@@ -1,0 +1,4 @@
+module WatermelonDB {
+    header "WatermelonDB-Swift.h"
+}
+

@@ -1,0 +1,31 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseInstallations/FIRInstallations.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/GoogleUtilities/GULUserDefaults.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID+Private.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceIDCheckinPreferences.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDDefines.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.h

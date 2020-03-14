@@ -1,0 +1,43 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Target\ Support\ Files/RNFastImage/RNFastImage-prefix.pch \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDAnimatedImageView+WebCache.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDAnimatedImageView.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageCompat.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDAnimatedImage.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDImageCoder.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/NSData+ImageContentType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageManager.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageOperation.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDImageCacheDefine.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageDefine.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDImageLoader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDImageTransformer.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/UIImage+Transform.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageCacheKeyFilter.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageCacheSerializer.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageOptionsProcessor.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderConfig.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderRequestModifier.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderResponseModifier.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderDecryptor.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTResizeMode.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native-fast-image/ios/FastImage/FFFastImageSource.h

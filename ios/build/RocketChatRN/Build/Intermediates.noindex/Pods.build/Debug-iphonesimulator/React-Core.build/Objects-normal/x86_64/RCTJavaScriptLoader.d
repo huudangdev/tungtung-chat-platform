@@ -1,0 +1,33 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/Portability.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/portability/Config.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Folly/folly/CPortability.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/React/Base/RCTConvert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/React/Base/RCTUtils.h

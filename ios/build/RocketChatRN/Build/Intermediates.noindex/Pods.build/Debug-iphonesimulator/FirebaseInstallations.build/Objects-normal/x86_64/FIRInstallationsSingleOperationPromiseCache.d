@@ -1,0 +1,22 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsSingleOperationPromiseCache.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsSingleOperationPromiseCache.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h

@@ -1,0 +1,19 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/RocketChatRN/main.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/RocketChatRN/AppDelegate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h

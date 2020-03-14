@@ -1,0 +1,38 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/BugsnagReactNative.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Target\ Support\ Files/BugsnagReactNative/BugsnagReactNative-prefix.pch \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/Bugsnag.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/BugsnagConfiguration.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/BSG_KSCrashReportWriter.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/BugsnagBreadcrumb.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/BugsnagCrashReport.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/BugsnagMetaData.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashC.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashContext.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Sentry/BSG_KSCrashSentry.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Tools/BSG_KSArchSpecific.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashState.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/bugsnag-react-native/cocoa/BugsnagReactNative.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native/React/Base/RCTVersion.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

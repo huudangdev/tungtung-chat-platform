@@ -1,0 +1,36 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsVersion.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRHeartbeatInfo.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsErrors.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h

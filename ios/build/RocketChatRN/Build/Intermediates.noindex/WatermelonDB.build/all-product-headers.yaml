@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/new/mobile/Rocket.Chat.ReactNative/ios/build/RocketChatRN/Build/Products/Debug-iphonesimulator/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/new/mobile/Rocket.Chat.ReactNative/ios/build/RocketChatRN/Build/Intermediates.noindex/WatermelonDB.build/Debug-iphonesimulator/WatermelonDB.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/new/mobile/Rocket.Chat.ReactNative/ios/build/RocketChatRN/Build/Products/Debug-iphonesimulator/include",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "WatermelonDB-Swift.h",
+          'external-contents': "/Volumes/new/mobile/Rocket.Chat.ReactNative/ios/build/RocketChatRN/Build/Products/Debug-iphonesimulator/usr/local/include/WatermelonDB-Swift.h"
+        }
+      ]
+    }
+  ]
+}

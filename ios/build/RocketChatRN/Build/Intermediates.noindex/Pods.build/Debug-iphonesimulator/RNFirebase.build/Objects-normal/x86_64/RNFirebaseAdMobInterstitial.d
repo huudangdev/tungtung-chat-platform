@@ -1,0 +1,42 @@
+dependencies: \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMobInterstitial.m \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Target\ Support\ Files/RNFirebase/RNFirebase-prefix.pch \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMobInterstitial.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Public/Firebase/Firebase.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FirebaseCore.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRConfiguration.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Fabric/iOS/Fabric.framework/Headers/Fabric.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Fabric/iOS/Fabric.framework/Modules/module.modulemap \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Fabric/iOS/Fabric.framework/Headers/FABAttributes.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/Crashlytics.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Crashlytics/iOS/Crashlytics.framework/Modules/module.modulemap \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/ANSCompatibility.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/Answers.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSStackFrame.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSReport.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSLogging.h \
+  /Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSAttributes.h

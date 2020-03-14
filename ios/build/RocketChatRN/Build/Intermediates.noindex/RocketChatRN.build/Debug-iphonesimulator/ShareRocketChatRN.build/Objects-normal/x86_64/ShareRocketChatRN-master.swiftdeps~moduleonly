@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "347c2c9bc60bf38ad6377033419a5e5f"
+build_time: [1584172773, 963474000]
+inputs:
+  "/Volumes/new/mobile/Rocket.Chat.ReactNative/ios/Watermelon.swift": [1584171942, 872614420]

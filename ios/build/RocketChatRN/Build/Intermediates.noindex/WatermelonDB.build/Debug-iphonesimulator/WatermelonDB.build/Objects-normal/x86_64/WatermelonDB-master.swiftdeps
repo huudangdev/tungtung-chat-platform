@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "f534ea8bb4a761234ce65d3ac357d210"
+build_time: [1584172742, 859372000]
+inputs:
+  "/Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/@nozbe/watermelondb/native/ios/WatermelonDB/DatabaseDriver.swift": [1584172001, 501000000]
+  "/Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/@nozbe/watermelondb/native/ios/WatermelonDB/DatabaseBridge.swift": [1584172001, 501000000]
+  "/Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/@nozbe/watermelondb/native/ios/WatermelonDB/std_ext.swift": [1584172001, 501000000]
+  "/Volumes/new/mobile/Rocket.Chat.ReactNative/node_modules/@nozbe/watermelondb/native/ios/WatermelonDB/Database.swift": [1584172001, 501000000]
